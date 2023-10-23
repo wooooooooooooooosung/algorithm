@@ -71,6 +71,7 @@ public class BOJ5430 {
 				} 
 				// 배열 순서의 맨 앞 원소를 버린다.
 				else if (c == 'D') {
+					// 원소가 비었으면 error 출력을 위해 break
 					if (list.isEmpty()) {
 						isBreak = true;
 						break;
