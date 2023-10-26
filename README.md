@@ -5,8 +5,9 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imws)](https://solved.ac/imws)
   
-  <br>
-  
+  <h3>🎨 Most Language</h3>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooooooooooooooosung&layout=compact&theme=synthwave)](https://github.com/wooooooooooooooosung/algorithm)
   
   <h3>⚙ Programming Tools </h3>
   
